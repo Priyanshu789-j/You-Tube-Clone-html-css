@@ -59,14 +59,6 @@ Through this project, I improved my skills in:
 
 ---
 
-## 📸 Preview
-
-👉 ## 📸 Preview
-
-<p align="center">
-  <img src="youtubeclone.png" alt="YouTube Clone Preview" width="800"/>
-</p>
-
 
 ---
 
